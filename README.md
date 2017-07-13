@@ -1,4 +1,4 @@
-# IntegersGrouping
+# K-Means 1D
 
 This program implements an adaptation of the k-means algorithm to one dimension and groups numbers in n groups depending on how close they are to each other.
 * It starts by assigning n random numbers from the initial array as the centers of each group.
